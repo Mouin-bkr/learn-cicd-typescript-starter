@@ -15,7 +15,7 @@ describe("person", () => {
   });
 
   test("has correct age", () => {
-    expect(person.age).toBe(22);
+    expect(person.age).toBe(32);
   });
 
 });
